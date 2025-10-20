@@ -21,7 +21,7 @@
           "buildVersion": "4",
           "date": "2025-10-20",
           "localizedDescription": "Version 1.0.3 — Stability improvements and UI tweaks.",
-          "downloadURL": "https://github.com/spiri2/s2vids/releases/tag/v1.0.3",
+          "downloadURL": "https://github.com/spiri2/s2vids/releases/download/v1.0.3/s2vids.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
