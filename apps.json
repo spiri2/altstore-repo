@@ -9,10 +9,10 @@
       "bundleIdentifier": "com.spiri2.s2vids",
       "developerName": "spiri2",
       "localizedDescription": "s2vids is a subscription-based streaming service offering a vast library of movies and Tv Shows, all accessible on internet-connected devices like smart TVs, phones, and tablets. Watch as much content as you want, request virtually any movie, Tv Show including Anime, and PPV titles, and can download titles for offline viewing. You can also Invite friends and family with randomized invite codes.",
-      "iconURL": "https://github.com/spiri2/s2vids/blob/main/assets/s2vids-1024x1024.PNG",
+      "iconURL": "https://raw.githubusercontent.com/spiri2/s2vids/main/assets/s2vids-1024x1024.PNG",
       "category": "entertainment",
       "screenshots": [
-        "https://github.com/spiri2/s2vids/blob/main/assets/s2vids-screenshot1.png"
+        "https://raw.githubusercontent.com/spiri2/s2vids/main/assets/s2vids-screenshot1.png"
        
       ],
       "versions": [
@@ -21,7 +21,7 @@
           "buildVersion": "4",
           "date": "2025-10-20",
           "localizedDescription": "Version 1.0.3 — Stability improvements and UI tweaks.",
-          "downloadURL": "https://example.com/builds/s2vids-1.0.3.ipa",
+          "downloadURL": "https://github.com/spiri2/s2vids/releases/tag/v1.0.3",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
