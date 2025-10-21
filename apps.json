@@ -27,7 +27,7 @@
           "buildVersion": "5",
           "date": "2025-10-21",
           "localizedDescription": "Version 1.0.4 — Added improved video streaming performance, fixed buffering issues, and minor UI polish.",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.4/s2vids.ipa",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v.1.0.4/s2vids.ipa",
           "size": 13000000,
           "minOSVersion": "15.0"
         },
