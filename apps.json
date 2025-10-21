@@ -10,7 +10,7 @@
       "developerName": "spiri2",
       "localizedDescription": "s2vids is a subscription-based streaming service offering a vast library of movies and Tv Shows, all accessible on internet-connected devices like smart TVs, phones, and tablets. Watch as much content as you want, request virtually any movie, Tv Show including Anime, and PPV titles, and can download titles for offline viewing. Use signup code **YS48WTY7** to get started.",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-1024x1024.PNG",
-      "category": "entertainment",
+      "category": "entertainment", 
       "screenshots": [
         "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-screenshot1.png"
       ],
@@ -25,7 +25,7 @@
         {
           "version": "1.0.4",
           "buildVersion": "5",
-          "date": "2025-11-05",
+          "date": "2025-10-21",
           "localizedDescription": "Version 1.0.4 — Added improved video streaming performance, fixed buffering issues, and minor UI polish.",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.4/s2vids.ipa",
           "size": 13000000,
@@ -51,6 +51,7 @@
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.s2vids.org/apps.json"
+      "date": "2025-10-21"
     }
   ]
 }
