@@ -1,7 +1,7 @@
 {
   "name": "spiri2",
   "subtitle": "Apps by spiri2",
-  "iconURL": "https://example.com/source-icon.png",
+  "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/icon_logo.png",
   "tintColor": "#0EA5E9",
   "apps": [
     {
