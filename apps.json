@@ -23,6 +23,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.6",
+          "buildVersion": "6",
+          "date": "2025-10-26",
+          "localizedDescription": "Added: PiP (Picture in Picture)\nAdded: Additional resources in settings - system panel\nBug Fixes\nUI Improvements",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.6/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.1"
+        },
+        {
           "version": "1.0.5",
           "buildVersion": "6",
           "date": "2025-10-22",
@@ -53,6 +62,15 @@
     }
   ],
   "news": [
+    {
+      "title": "🎬 s2vids v1.0.6 Released",
+      "identifier": "s2vids-v1.0.6",
+      "caption": "PiP, new resources in System panel, bug fixes & UI polish.",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
+      "url": "https://repo.s2vids.org/apps.json",
+      "date": "2025-10-26"
+    },
     {
       "title": "🎬 s2vids v1.0.5 Released",
       "identifier": "s2vids-v1.0.5",
