@@ -116,7 +116,7 @@
           "buildVersion": "1",
           "date": "2025-11-16",
           "localizedDescription": "Initial Release.",
-          "downloadURL": "https://github.com/spiri2/apex-altstore/releases/download/v1.0.0/Apex.ipa",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.0/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
