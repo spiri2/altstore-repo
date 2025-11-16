@@ -8,9 +8,9 @@
       "name": "s2vids",
       "bundleIdentifier": "com.spiri2.s2vids",
       "developerName": "spiri2",
-      "localizedDescription": "Stream movies and Tv Shows, all accessible on smart TVs, phones, and tablets. Watch as much content as you want, request virtually any movie, Tv Show including Anime, and PPV titles, and can download titles for offline viewing. \n\nSignup Code: ZNXXJW9Y ",
+      "localizedDescription": "Stream movies and Tv Shows, all accessible on smart TVs, phones, and tablets. Watch as much content as you want, request virtually any movie, Tv Show including Anime, and PPV titles, and can download titles for offline viewing.\n\nSignup Code: ZNXXJW9Y",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-1024x1024.PNG",
-      "category": "entertainment",
+      "category": "Entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-screenshot1.png"
       ],
@@ -25,7 +25,7 @@
         {
           "version": "1.0.9",
           "buildVersion": "9",
-          "date": "2025-11-3",
+          "date": "2025-11-16",
           "localizedDescription": "• UI Fixes",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.9/s2vids.ipa",
           "size": 13000000,
@@ -34,7 +34,7 @@
         {
           "version": "1.0.8",
           "buildVersion": "8",
-          "date": "2025-11-3",
+          "date": "2025-11-03",
           "localizedDescription": "• Swipe up → switch to landscape.\n• Swipe down (or left/right if already landscape) → return to portrait \n• Swipe down in the center of the media player → exits media player \n• Discover page now shows 3 tabs (All, Movies, TV). You can now also request Tv Shows. \n• UI Updates",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.8/s2vids.ipa",
           "size": 13000000,
@@ -86,6 +86,41 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+
+
+
+
+
+    
+    {
+      "name": "Apex for Pokémon GO",
+      "bundleIdentifier": "com.spiri2.Apex",
+      "developerName": "spiri2",
+      "localizedDescription": "Apex is a companion app for Pokémon GO that provides live coordinates for Pokémon, raids, and more.",
+      "iconURL": "https://raw.githubusercontent.com/spiri2/apex-altstore/main/assets/apex.png",
+      "category": "Utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/spiri2/apex-altstore/main/assets/Screenshot%202025-11-16%20at%2014.11.56.png"
+      ],
+      "permissions": [
+        {
+          "type": "entitlement",
+          "name": "Associated Domains",
+          "key": "com.apple.developer.associated-domains"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2025-11-16",
+          "localizedDescription": "Initial Release.",
+          "downloadURL": "https://github.com/spiri2/apex-altstore/releases/download/v1.0.0/Apex.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": [
@@ -96,7 +131,7 @@
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.s2vids.org/apps.json",
-      "date": "2025-11-3"
+      "date": "2025-11-03"
     },
     {
       "title": "🎬 s2vids v1.0.7 Released",
@@ -124,6 +159,15 @@
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.s2vids.org/apps.json",
       "date": "2025-10-21"
+    },
+    {
+      "title": "Apex v1.0.0 Released",
+      "identifier": "Apex-v1.0.0",
+      "caption": "Initial Release.",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/apex-altstore/main/assets/apex.png",
+      "url": "https://repo.apex.org/apps.json",
+      "date": "2025-11-16"
     }
   ]
 }
