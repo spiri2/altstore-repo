@@ -98,7 +98,7 @@
       "bundleIdentifier": "com.spiri2.Apex",
       "developerName": "spiri2",
       "localizedDescription": "Apex is a companion app for Pokémon GO that provides live coordinates for Pokémon, raids, and more.",
-      "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/icon_logo.png",
+      "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/apex.png",
       "category": "Utilities",
       "screenshots": [
         "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/apex_screenshot.png"
