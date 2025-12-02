@@ -86,8 +86,45 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+
+
+
+
+
+    
+    {
+      "name": "Apex for Pokémon GO",
+      "bundleIdentifier": "com.spiri2.Apex",
+      "developerName": "spiri2",
+      "localizedDescription": "Apex is a companion app for Pokémon GO that provides live coordinates for Pokémon, raids, and more.",
+      "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
+      "category": "Utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/apex_screenshot.png"
+      ],
+      "permissions": [
+        {
+          "type": "entitlement",
+          "name": "Associated Domains",
+          "key": "com.apple.developer.associated-domains"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "10",
+          "date": "2025-11-27",
+          "localizedDescription": "Initial Release.",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.0/Apex.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
+
+  
   "news": [
     {
       "title": "🎬 s2vids v1.0.8 Released",
@@ -124,6 +161,19 @@
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
       "date": "2025-10-21"
+    },
+
+
+
+    
+    {
+      "title": "Apex v1.0.0 Released",
+      "identifier": "Apex-v1.0.0",
+      "caption": "Initial Release",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
+      "url": "https://repo.spiri2.com/apps.json",
+      "date": "2025-11-27"
     }
   ]
 }
