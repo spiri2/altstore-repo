@@ -22,6 +22,15 @@
         }
       ],
       "versions": [
+         {
+          "version": "1.1.0",
+          "buildVersion": "10",
+          "date": "2025-12-14",
+          "localizedDescription": "• Big Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.1.0/s2vids.ipa",
+          "size": 13000000,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "1.0.9",
           "buildVersion": "9",
@@ -126,6 +135,15 @@
 
   
   "news": [
+    {
+      "title": "🎬 s2vids v1.1.0 Released",
+      "identifier": "s2vids-v1.1.0",
+      "caption": "• Bug Fixes",
+      "tintColor": "#0EA5E9",
+      "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
+      "url": "https://repo.spiri2.com/apps.json",
+      "date": "2025-12-14"
+    },
     {
       "title": "🎬 s2vids v1.0.8 Released",
       "identifier": "s2vids-v1.0.8",
