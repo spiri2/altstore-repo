@@ -33,6 +33,9 @@
         }
       ]
     },
+
+
+    
     {
       "name": "Apex for Pokémon GO",
       "bundleIdentifier": "com.spiri2.Apex",
@@ -53,8 +56,8 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "12",
-          "date": "2025-12-02",
+          "buildVersion": "21",
+          "date": "2025-12-21",
           "localizedDescription": "Initial Release.",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.0/Apex.ipa",
           "size": 12345678,
@@ -81,7 +84,7 @@
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2025-12-14"
+      "date": "2025-12-21"
     }
   ]
 }
