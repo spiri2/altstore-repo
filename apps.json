@@ -40,7 +40,7 @@
       "name": "Apex for Pokémon GO",
       "bundleIdentifier": "com.spiri2.Apex",
       "developerName": "spiri2",
-      "localizedDescription": "Apex is a companion app for Pokémon GO that provides live coordinates for Pokémon, raids, and more.",
+      "localizedDescription": "Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, and more. Apex also provides tools such as Distance calculator, Friend Codes, Trade with other users, and more.",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "category": "Utilities",
       "screenshots": [
@@ -56,8 +56,8 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "21",
-          "date": "2025-12-21",
+          "buildVersion": "30",
+          "date": "2025-12-24",
           "localizedDescription": "Initial Release.",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.0/Apex.ipa",
           "size": 12345678,
@@ -84,7 +84,7 @@
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2025-12-21"
+      "date": "2025-12-24"
     }
   ]
 }
