@@ -55,11 +55,10 @@
       ],
       "versions": [
         {
-          "version": "1.0.0",
-          "buildVersion": "30",
-          "date": "2025-12-24",
-          "localizedDescription": "Initial Release.",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.0/Apex.ipa",
+          "version": "1.0.1",
+          "buildVersion": "40",
+          "date": "2025-12-28",
+          "localizedDescription": "• Fixed Reset password issues\n• Added Live Weather\n• Pro users can now delete individual Pokemon names from their trade listings\n• Pro users can now \"Bump\" their trade listings that pushes it to the top of the page.\n• Fast Raids is now a standalone tab in dashboard and menu, instead of having to enter the live raids page.\n• UI Improvements",          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.1/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,13 +77,13 @@
     },
     
     {
-      "title": "Apex v1.0.0 Released",
-      "identifier": "Apex-v1.0.0",
-      "caption": "Initial Release",
+      "title": "Apex v1.0.1 Released",
+      "identifier": "Apex-v1.0.1",
+      "caption": "• Added Live Weather\n• Pro users can now delete individual Pokemon names from their trade listings\n• Pro users can now \"Bump\" their trade listings that pushes it to the top of the page.\n• Fast Raids is now a standalone tab in dashboard and menu, instead of having to enter the live raids page.\n• UI Improvements",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2025-12-24"
+      "date": "2025-12-28"
     }
   ]
 }
