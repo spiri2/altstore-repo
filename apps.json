@@ -56,7 +56,7 @@
       "versions": [
         {
           "version": "1.0.2",
-          "buildVersion": "60",
+          "buildVersion": "61",
           "date": "2026-1-10",
           "localizedDescription": "• Users can now add their trainer name in settings. Trainer name will be included when sharing trainer code and in Trade listings.\n• Users can now private message each other within the app by trainer name\n• UI + backend Improvements\n• Bug Fixes",          
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.0.2/Apex.ipa",
