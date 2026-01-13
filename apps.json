@@ -23,11 +23,11 @@
       ],
       "versions": [
         {
-          "version": "1.1.1",
-          "buildVersion": "11",
-          "date": "2025-12-15",
-          "localizedDescription": "• Fixed Reset password issues",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.1.1/s2vids.ipa",
+          "version": "1.1.2",
+          "buildVersion": "20",
+          "date": "2026-1-12",
+          "localizedDescription": "• UI Updates",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v1.1.2/s2vids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -68,13 +68,13 @@
   ],
   "news": [
     {
-      "title": "🎬 s2vids v1.1.1 Released",
-      "identifier": "s2vids-v1.1.1",
-      "caption": "• Fixed Reset password issues",
+      "title": "🎬 s2vids v1.1.2 Released",
+      "identifier": "s2vids-v1.1.2",
+      "caption": "• UI Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2025-12-15"
+      "date": "2026-1-12"
     },
     
     {
