@@ -55,11 +55,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.3",
-          "buildVersion": "95",
-          "date": "2026-1-26",
-          "localizedDescription": "• Added Promotional Codes - displays in game redeemable codes \n• Added Events Calendar - displays all current and upcoming events \n• Added Power up Calculator \n• Added PokeLids \n• Updated Resources \n• Bug Fixes",          
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.3/Apex.ipa",
+          "version": "1.0.4",
+          "buildVersion": "100",
+          "date": "2026-1-27",
+          "localizedDescription": "• Bug Fixes",          
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.4/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,13 +78,13 @@
     },
     
     {
-      "title": "Apex v1.0.3 Released",
-      "identifier": "Apex-v1.0.3",
-      "caption": "• Added Promotional Codes - displays in game redeemable codes \n• Added Events Calendar - displays all current and upcoming events \n• Added Power up Calculator \n• Added PokeLids \n• Updated Resources \n• Bug Fixes",
+      "title": "Apex v1.0.4 Released",
+      "identifier": "Apex-v1.0.4",
+      "caption": "• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-1-26"
+      "date": "2026-1-27"
     }
   ]
 }
