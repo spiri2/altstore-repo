@@ -55,11 +55,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.5",
-          "buildVersion": "125",
-          "date": "2026-2-3",
-          "localizedDescription": "• Added PoKeys: Special Keyboard Characters that can be used for naming your Pokemon. \n• Moved Hotspots, PvP Rankings, and GPX Routes into Resources \n• Added Medals to Resources. \n• Bug Fixes",          
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.5/Apex.ipa",
+          "version": "1.0.6",
+          "buildVersion": "131",
+          "date": "2026-2-15",
+          "localizedDescription": "• UX Updates",          
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.6/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,13 +78,13 @@
     },
     
     {
-      "title": "Apex v1.0.5 Released",
-      "identifier": "Apex-v1.0.5",
-      "caption": "• Added PoKeys: Special Keyboard Characters that can be used for naming your Pokemon. \n• Moved Hotspots, PvP Rankings, and GPX Routes into Resources \n• Added Medals to Resources. \n• Bug Fixes",
+      "title": "Apex v1.0.6 Released",
+      "identifier": "Apex-v1.0.6",
+      "caption": "• UX Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-2-3"
+      "date": "2026-2-15"
     }
   ]
 }
