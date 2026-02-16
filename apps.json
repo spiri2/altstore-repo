@@ -55,11 +55,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.7",
-          "buildVersion": "132",
+          "version": "1.0.8",
+          "buildVersion": "2",
           "date": "2026-2-16",
-          "localizedDescription": "• Fixed Crashing",          
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.7/Apex.ipa",
+          "localizedDescription": "• UI Updates",          
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.8/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,9 +78,9 @@
     },
     
     {
-      "title": "Apex v1.0.7 Released",
-      "identifier": "Apex-v1.0.7",
-      "caption": "• Fixed Crashing",
+      "title": "Apex v1.0.8 Released",
+      "identifier": "Apex-v1.0.8",
+      "caption": "• UI Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
