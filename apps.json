@@ -40,7 +40,7 @@
       "name": "Apex for Pokémon GO",
       "bundleIdentifier": "com.spiri2.Apex",
       "developerName": "spiri2",
-      "localizedDescription": "Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, and tools such as Distance calculator, Friend Codes, Trade with other users, and more.",
+      "localizedDescription": "Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, and tools such as Distance calculator, Friend Codes, and more.",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "category": "Utilities",
       "screenshots": [
@@ -58,7 +58,7 @@
           "version": "1.0.9",
           "buildVersion": "3",
           "date": "2026-2-26",
-          "localizedDescription": "• Added Live Maps \n• Bug Fixes \n• UI Fixes",          
+          "localizedDescription": "• Added Live Maps \n• Bug Fixes \n• UI Updates",          
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.9/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
@@ -80,7 +80,7 @@
     {
       "title": "Apex v1.0.9 Released",
       "identifier": "Apex-v1.0.9",
-      "caption": "• Added Live Maps \n• Bug Fixes \n•UI Fixes",
+      "caption": "• Added Live Maps \n• Bug Fixes \n•UI Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
