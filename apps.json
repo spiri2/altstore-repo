@@ -55,11 +55,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.9",
-          "buildVersion": "3",
-          "date": "2026-2-26",
-          "localizedDescription": "• Added Live Maps \n• Bug Fixes \n• UI Updates",          
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.0.9/Apex.ipa",
+          "version": "1.1.0",
+          "buildVersion": "1",
+          "date": "2026-2-28",
+          "localizedDescription": "• Bug Fixes",          
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.1.0/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,13 +78,13 @@
     },
     
     {
-      "title": "Apex v1.0.9 Released",
-      "identifier": "Apex-v1.0.9",
-      "caption": "• Added Live Maps \n• Bug Fixes \n•UI Updates",
+      "title": "Apex v1.1.0 Released",
+      "identifier": "Apex-v1.1.0",
+      "caption": "• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-2-26"
+      "date": "2026-2-28"
     }
   ]
 }
