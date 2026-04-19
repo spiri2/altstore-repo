@@ -55,11 +55,11 @@
       ],
       "versions": [
         {
-          "version": "1.4.0",
+          "version": "1.5.0",
           "buildVersion": "1",
-          "date": "2026-3-22",
-          "localizedDescription": "• Fixed: Watchlist results were not showing anything after receiving push notifications.",          
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.4.0/Apex.ipa",
+          "date": "2026-4-18",
+          "localizedDescription": "• UI Updates \n• Bug Fixes",          
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.5.0/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -78,13 +78,13 @@
     },
     
     {
-      "title": "Apex v1.4.0 Released",
-      "identifier": "Apex-v1.4.0",
-      "caption": "• Fixed: Watchlist results were not showing anything after receiving push notifications.",
+      "title": "Apex v1.5.0 Released",
+      "identifier": "Apex-v1.5.0",
+      "caption": "• UI Updates \n• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-3-22"
+      "date": "2026-4-18"
     }
   ]
 }
