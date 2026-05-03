@@ -25,8 +25,8 @@
         {
           "version": "2.7.0",
           "buildVersion": "2",
-          "date": "2026-5-3",
-          "localizedDescription": "• Bug Fixes",
+          "date": "2026-5-4",
+          "localizedDescription": "• Bug Fix",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.7.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
@@ -74,7 +74,7 @@
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-5-3"
+      "date": "2026-5-4"
     },
     
     {
