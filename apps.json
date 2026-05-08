@@ -23,11 +23,11 @@
       ],
       "versions": [
         {
-          "version": "2.9.0",
+          "version": "2.10.0",
           "buildVersion": "1",
-          "date": "2026-05-08T04:15Z",
+          "date": "2026-05-08T04:44Z",
           "localizedDescription": "• Added Trakt Integration  \n• Added Push Notifications for watched titles",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.9.0/Mvids.ipa",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.10.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -68,8 +68,8 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.9.0 Released",
-      "identifier": "Mvids-v2.9.0",
+      "title": "Mvids v2.10.0 Released",
+      "identifier": "Mvids-v2.10.0",
       "caption": "• Added Trakt Integration  \n• Added Push Notifications for watched titles",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
