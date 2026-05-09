@@ -23,11 +23,11 @@
       ],
       "versions": [
         {
-          "version": "2.14.0",
+          "version": "2.15.0",
           "buildVersion": "1",
-          "date": "2026-05-09T21:58Z",
+          "date": "2026-05-09T22:16Z",
           "localizedDescription": "• Bug Fixes",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.14.0/Mvids.ipa",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.15.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -68,8 +68,8 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.14.0 Released",
-      "identifier": "Mvids-v2.14.0",
+      "title": "Mvids v2.15.0 Released",
+      "identifier": "Mvids-v2.15.0",
       "caption": "• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
