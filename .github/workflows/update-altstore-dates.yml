@@ -1,0 +1,65 @@
+name: Update AltStore App Dates
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-altstore-dates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update Mvids and Apex dates
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+
+          const file = "apps.json";
+          const data = JSON.parse(fs.readFileSync(file, "utf8"));
+
+          const now = new Date();
+          const iso = now.toISOString().replace(/\.\d{3}Z$/, "Z");
+
+          const appNamesToUpdate = [
+            "Mvids",
+            "Apex for Pokémon GO"
+          ];
+
+          for (const appName of appNamesToUpdate) {
+            const app = data.apps?.find(app => app.name === appName);
+
+            if (!app) {
+              throw new Error(`${appName} app entry not found`);
+            }
+
+            if (!Array.isArray(app.versions) || app.versions.length === 0) {
+              throw new Error(`${appName} versions array missing`);
+            }
+
+            app.versions[0].date = iso;
+            console.log(`Updated ${appName} date to ${iso}`);
+          }
+
+          fs.writeFileSync(file, JSON.stringify(data, null, 2) + "\n");
+          NODE
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add apps.json
+          git commit -m "Update AltStore app dates"
+          git push
