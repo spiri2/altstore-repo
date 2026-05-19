@@ -24,7 +24,7 @@
       "versions": [
         {
           "version": "2.19.0",
-          "date": "2026-05-19T02:40Z",
+          "date": "2026-05-19T04:21:10Z",
           "localizedDescription": "• UI Updates",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.19.0/Mvids.ipa",
           "size": 13000000,
@@ -32,9 +32,6 @@
         }
       ]
     },
-
-
-    
     {
       "name": "Apex for Pokémon GO",
       "bundleIdentifier": "com.spiri2.Apex",
@@ -56,8 +53,8 @@
         {
           "version": "1.8.0",
           "buildVersion": "1",
-          "date": "2026-05-11T01:53Z",
-          "localizedDescription": "• Bug Fixes",          
+          "date": "2026-05-19T04:21:10Z",
+          "localizedDescription": "• Bug Fixes",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.8.0/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
@@ -75,7 +72,6 @@
       "url": "https://repo.spiri2.com/apps.json",
       "date": "2026-5-18"
     },
-    
     {
       "title": "Apex v1.8.0 Released",
       "identifier": "Apex-v1.8.0",
