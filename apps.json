@@ -8,7 +8,7 @@
       "name": "Mvids",
       "bundleIdentifier": "com.spiri2.Mvids",
       "developerName": "spiri2",
-      "localizedDescription": "Stream Movies, Tv shows, and Live Tv. All accessible on smart TVs, phones, and tablets. \n\nSignup Code: NBXS8Q4STA",
+      "localizedDescription": "Stream Movies, Tv shows, and Live Tv. All accessible on smart TVs, phones, and tablets. \n\nSignup Code: JE6PR228BE",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/mvids.png",
       "category": "Entertainment",
       "screenshots": [
@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.19.0",
-          "date": "2026-05-23T16:54:03Z",
-          "localizedDescription": "• UI Updates",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.19.0/Mvids.ipa",
+          "version": "2.20.0",
+          "date": "2026-05-23T19:50:00Z",
+          "localizedDescription": "• Added Subtitle requests \n• Bug Fixes \n• UI Updates",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.20.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -64,13 +64,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.19.0 Released",
-      "identifier": "Mvids-v2.19.0",
-      "caption": "• UI Updates",
+      "title": "Mvids v2.20.0 Released",
+      "identifier": "Mvids-v2.20.0",
+      "caption": "• Added Subtitle requests \n• Bug Fixes \n• UI Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-5-18"
+      "date": "2026-5-23"
     },
     {
       "title": "Apex v1.8.0 Released",
