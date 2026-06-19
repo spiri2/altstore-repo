@@ -8,7 +8,7 @@
       "name": "Mvids",
       "bundleIdentifier": "com.spiri2.Mvids",
       "developerName": "Mvids",
-      "localizedDescription": "Stream Movies, Tv shows, and Live Tv. All accessible on smart TVs, phones, and tablets. \n\nSignup Code: JE6PR228BE",
+      "localizedDescription": "Stream Movies, Tv shows, and Live Tv. All accessible on smart TVs, phones, and tablets. \n\nSignup Code: T3LPAPSEAM",
       "iconURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/mvids.png",
       "category": "Entertainment",
       "screenshots": [
@@ -24,7 +24,7 @@
       "versions": [
         {
           "version": "2.24.0",
-          "date": "2026-06-19T19:42:39Z",
+          "date": "2026-06-19T19:49:00Z",
           "localizedDescription": "• Requests now automatically include push notifications \n• View Pending and Completed requests \n• Bug Fixes \n• UI Updates",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.24.0/Mvids.ipa",
           "size": 13000000,
