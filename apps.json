@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.24.0",
-          "date": "2026-06-20T17:19:38Z",
-          "localizedDescription": "• Requests now automatically include push notifications \n• View Pending and Completed requests \n• Bug Fixes \n• UI Updates",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.24.0/Mvids.ipa",
+          "version": "2.25.0",
+          "date": "2026-06-20T19:21:00Z",
+          "localizedDescription": "• Users can now report issues for titles in Discover \n• UI Updates \n• Bug Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.25.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -64,13 +64,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.24.0 Released",
-      "identifier": "Mvids-v2.24.0",
-      "caption": "• Requests now automatically include push notifications \n• View Pending and Completed requests \n• Bug Fixes \n• UI Updates",
+      "title": "Mvids v2.25.0 Released",
+      "identifier": "Mvids-v2.25.0",
+      "caption": "• Users can now report issues for titles in Discover \n• UI Updates \n• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-6-19"
+      "date": "2026-6-20"
     },
     {
       "title": "Apex v1.8.0 Released",
