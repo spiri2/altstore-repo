@@ -51,11 +51,11 @@
       ],
       "versions": [
         {
-          "version": "1.8.0",
+          "version": "1.9.0",
           "buildVersion": "1",
-          "date": "2026-06-25T18:05:26Z",
-          "localizedDescription": "• Bug Fixes",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.8.0/Apex.ipa",
+          "date": "2026-06-25T20:02:26Z",
+          "localizedDescription": "• UI Updates",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.9.0/Apex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
@@ -73,13 +73,13 @@
       "date": "2026-6-25"
     },
     {
-      "title": "Apex v1.8.0 Released",
-      "identifier": "Apex-v1.8.0",
-      "caption": "• Bug Fixes",
+      "title": "Apex v1.9.0 Released",
+      "identifier": "Apex-v1.9.0",
+      "caption": "• UI Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-5-9"
+      "date": "2026-5-25"
     }
   ]
 }
