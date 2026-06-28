@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.31.0",
-          "date": "2026-06-28T18:23:28Z",
+          "version": "2.32.0",
+          "date": "2026-06-28T22:08:28Z",
           "localizedDescription": "• Added picture in picture for live tv \n• Added push notifications for newer versions of the app. \n• UI/UX Updates",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.31.0/Mvids.ipa",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.32.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -63,8 +63,8 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.31.0 Released",
-      "identifier": "Mvids-v2.31.0",
+      "title": "Mvids v2.32.0 Released",
+      "identifier": "Mvids-v2.32.0",
       "caption": "• Added picture in picture for live tv \n• Added push notifications for newer versions of the app. \n• UI/UX Updates",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
