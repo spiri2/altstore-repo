@@ -24,7 +24,7 @@
       "versions": [
         {
           "version": "2.32.0",
-          "date": "2026-06-29T18:04:48Z",
+          "date": "2026-06-30T17:48:17Z",
           "localizedDescription": "• Added picture in picture for live tv \n• Added push notifications for newer versions of the app. \n• UI/UX Updates",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.32.0/Mvids.ipa",
           "size": 13000000,
@@ -52,7 +52,7 @@
       "versions": [
         {
           "version": "1.9.0",
-          "date": "2026-06-29T18:04:48Z",
+          "date": "2026-06-30T17:48:17Z",
           "localizedDescription": "• UI Updates",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.9.0/Apex.ipa",
           "size": 12345678,
