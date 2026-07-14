@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.42.0",
-          "date": "2026-07-14T17:07:02Z",
-          "localizedDescription": "• Users can now discover and listen to Audiobooks. \n• eBooks Coming soon",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.42.0/Mvids.ipa",
+          "version": "2.43.0",
+          "date": "2026-07-14T21:20:02Z",
+          "localizedDescription": "• Users can now request individual Tv show seasons. \n• Added Upcoming movies calendar to Discover \n• Watchlist Speed Improvements \n• Bug Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.43.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -63,13 +63,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.42.0 Released",
-      "identifier": "Mvids-v2.42.0",
-      "caption": "• Users can now discover and listen to Audiobooks. \n• eBooks Coming soon",
+      "title": "Mvids v2.43.0 Released",
+      "identifier": "Mvids-v2.43.0",
+      "caption": "• Users can now request individual Tv show seasons. \n• Added Upcoming movies calendar to Discover \n• Watchlist Speed Improvements \n• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-7-9"
+      "date": "2026-7-14"
     },
     {
       "title": "Apex v1.9.0 Released",
