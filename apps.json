@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.43.0",
-          "date": "2026-07-18T16:49:41Z",
-          "localizedDescription": "• Users can now request individual Tv show seasons. \n• Added Upcoming movies calendar to Discover \n• Watchlist Speed Improvements \n• Bug Fixes",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.43.0/Mvids.ipa",
+          "version": "2.45.0",
+          "date": "2026-07-18T22:24:41Z",
+          "localizedDescription": "• UI Updates \n•Bug Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.45.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -63,13 +63,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.43.0 Released",
-      "identifier": "Mvids-v2.43.0",
-      "caption": "• Users can now request individual Tv show seasons. \n• Added Upcoming movies calendar to Discover \n• Watchlist Speed Improvements \n• Bug Fixes",
+      "title": "Mvids v2.45.0 Released",
+      "identifier": "Mvids-v2.45.0",
+      "caption": "• UI Updates \n•Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-7-14"
+      "date": "2026-7-18"
     },
     {
       "title": "Apex v1.9.0 Released",
