@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.45.0",
-          "date": "2026-07-22T17:09:58Z",
-          "localizedDescription": "• UI Updates \n•Bug Fixes",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.45.0/Mvids.ipa",
+          "version": "2.50.0",
+          "date": "2026-07-22T22:44:58Z",
+          "localizedDescription": "• Users can now favorite TV Shows and receive push notifications when new episodes become available. \n• Updated Live TV \n• Added Live TV Schedules \n• UI Updates \n• Bug Fixes",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.50.0/Mvids.ipa",
           "size": 13000000,
           "minOSVersion": "15.1"
         }
@@ -63,13 +63,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.45.0 Released",
-      "identifier": "Mvids-v2.45.0",
-      "caption": "• UI Updates \n•Bug Fixes",
+      "title": "Mvids v2.50.0 Released",
+      "identifier": "Mvids-v2.50.0",
+      "caption": "• Users can now favorite TV Shows and receive push notifications when new episodes become available. \n• Updated Live TV \n• Added Live TV Schedules \n• UI Updates \n• Bug Fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-7-18"
+      "date": "2026-7-22"
     },
     {
       "title": "Apex v1.10.0 Released",
