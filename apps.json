@@ -24,7 +24,7 @@
       "versions": [
         {
           "version": "2.50.0",
-          "date": "2026-07-23T17:12:52Z",
+          "date": "2026-07-24T17:23:17Z",
           "localizedDescription": "• Users can now favorite TV Shows and receive push notifications when new episodes become available. \n• Updated Live TV \n• Added Live TV Schedules \n• UI Updates \n• Bug Fixes",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.50.0/Mvids.ipa",
           "size": 13000000,
@@ -52,7 +52,7 @@
       "versions": [
         {
           "version": "1.10.0",
-          "date": "2026-07-23T17:12:52Z",
+          "date": "2026-07-24T17:23:17Z",
           "localizedDescription": "• UI Updates \n• Bug Fixes",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.10.0/Apex.ipa",
           "size": 12345678,
