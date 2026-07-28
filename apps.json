@@ -53,8 +53,8 @@
         {
           "version": "1.12.0",
           "buildVersion": "1",
-          "date": "2026-07-28T02:42:36Z",
-          "localizedDescription": "• Live map data now uses dedicated Apex servers \n• Improved live map performance and request efficiency \n• Fixed duplicate regional requests \n• Added rate-limited live-data protection \n• Removed app debug console output \n• Reliability improvements and bug fixes",
+          "date": "2026-07-28T02:48:36Z",
+          "localizedDescription": "• Live map data now uses dedicated Apex servers \n• Improved live map performance and request efficiency \n• Fixed duplicate regional requests \n• Added rate-limited live-data protection \n• Reliability improvements and bug fixes",
           "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/1.12.0/Apex.ipa",
           "size": 29096179,
           "minOSVersion": "15.0"
@@ -75,7 +75,7 @@
     {
       "title": "Apex v1.12.0 Released",
       "identifier": "Apex-v1.12.0",
-      "caption": "• Live map data now uses dedicated Apex servers \n• Improved live map performance and request efficiency \n• Fixed duplicate regional requests \n• Added rate-limited live-data protection \n• Removed app debug console output \n• Reliability improvements and bug fixes",
+      "caption": "• Live map data now uses dedicated Apex servers \n• Improved live map performance and request efficiency \n• Fixed duplicate regional requests \n• Added rate-limited live-data protection \n• Reliability improvements and bug fixes",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/Apex_Full.png",
       "url": "https://repo.spiri2.com/apps.json",
