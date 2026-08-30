@@ -23,10 +23,10 @@
       ],
       "versions": [
         {
-          "version": "2.55.0",
-          "date": "2026-08-29T18:56:38Z",
-          "localizedDescription": "• Updated Live Tv \n• Bug Fixes",
-          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.55.0/Mvids.ipa",
+          "version": "2.56.0",
+          "date": "2026-08-30T05:56:38Z",
+          "localizedDescription": "• UI Updates \n• Bug Fixes \n• Forget password now sends a temporary link to your email. PID is no longer used.",
+          "downloadURL": "https://github.com/spiri2/altstore-repo/releases/download/v2.56.0/Mvids.ipa",
           "size": 24924555,
           "minOSVersion": "15.1"
         }
@@ -64,13 +64,13 @@
   ],
   "news": [
     {
-      "title": "Mvids v2.55.0 Released",
-      "identifier": "Mvids-v2.55.0",
-      "caption": "• Updated Live Tv \n• Bug Fixes",
+      "title": "Mvids v2.56.0 Released",
+      "identifier": "Mvids-v2.56.0",
+      "caption": "• UI Updates \n• Bug Fixes \n• Forget password now sends a temporary link to your email. PID is no longer used.",
       "tintColor": "#0EA5E9",
       "imageURL": "https://raw.githubusercontent.com/spiri2/altstore-repo/main/assets/s2vids-banner.png",
       "url": "https://repo.spiri2.com/apps.json",
-      "date": "2026-8-16"
+      "date": "2026-8-29"
     },
     {
       "title": "Apex v1.15.0 Released",
